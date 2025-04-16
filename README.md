@@ -1,18 +1,9 @@
 # STARTER-jpa04
 
-```
-TODO: Change link below from the example running app to your own running app
-For example, you might change it to:
-
-Running at: <https://jpa04-cgaucho.dokku-13.cs.ucsb.edu>
-
-Then remove this TODO item.
-```
-
-Running at: <https://starter-jpa04.dokku-00.cs.ucsb.edu>
+Running at: < https://jpa04-simony05.dokku-12.cs.ucsb.eduu>
 
 ## Thanks
-
+git s
 <a href="https://www.chromatic.com/"><img src="https://user-images.githubusercontent.com/321738/84662277-e3db4f80-af1b-11ea-88f5-91d67a5e59f6.png" width="153" height="30" alt="Chromatic" /></a>
 
 We are very grateful to [Chromatic](https://www.chromatic.com/) for providing the visual testing platform that helps us review UI changes and catch visual regressions.  Read more about how we integrate Chromatic into our projects [here](https://ucsb-cs156.github.io/topics/chromatic/#what-is-chromatic).
